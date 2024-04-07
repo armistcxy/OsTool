@@ -1,0 +1,18 @@
+throughput:       0.02197802197802198 (4/182)
+response time:    [0, 13, 25, 44], AVG: 20.5
+waiting time:     [60, 77, 25, 78], AVG: 60.0
+turn around time: [109, 122, 40, 151], AVG: 105.5
+
+Process 1: 0 -> 15
+Process 1: 15 -> 30
+Process 2: 30 -> 45
+Process 3: 45 -> 60
+Process 1: 60 -> 75
+Process 4: 75 -> 90
+Process 2: 90 -> 105
+Process 1: 105 -> 109
+Process 4: 109 -> 124
+Process 2: 124 -> 139
+Process 4: 139 -> 154
+Process 4: 154 -> 169
+Process 4: 169 -> 182
